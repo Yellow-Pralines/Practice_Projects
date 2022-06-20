@@ -17,7 +17,6 @@ else:
 print("Cost using ground shipping: " + "$" + str(ground_shipping))
 
 #Cost of Premium Ground Shipping
-
 print("Cost using premium ground shipping: " + 
 "$" + str(premium_ground_shipping))
 
