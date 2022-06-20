@@ -1,4 +1,4 @@
-
+import random
 name = input("What is your name?:")
 question=input("What is your question?:")
 question="Is today Sunday?"
