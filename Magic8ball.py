@@ -1,6 +1,6 @@
 
-import random
-name = "Sharon"
+name = input("What is your name?:")
+question=input("What is your question?:")
 question="Is today Sunday?"
 answer=""
 random_number=random.randint(1, 9)
