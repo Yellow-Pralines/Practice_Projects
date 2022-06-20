@@ -1,5 +1,5 @@
-name="John"
-weight= 8.4
+name=input("What is your name?: ")
+weight= float(input("What is the weight of your package in pounds?: "))
 print("Your package's weight is " + str(weight) + "lb")
 ground_shipping=""
 premium_ground_shipping= 125
